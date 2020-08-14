@@ -2,7 +2,7 @@
                                                                               
  B2H Error Solving
 
-Many Linux users have this type of error : <br>
+Many Linux users have this type of error : <br><br>
 E : Unable to locate package <br>
 Packege has no installation candidate<br>
 
