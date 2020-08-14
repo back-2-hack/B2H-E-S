@@ -1,6 +1,6 @@
 # B2H Error Solving
                                                                               
-                                                                          B2H Error Solving
+                                                                B2H Error Solving
 
 Many Linux users have this type of error :
 E : Unable to locate package
