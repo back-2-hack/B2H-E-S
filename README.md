@@ -3,7 +3,7 @@
  B2H Error Solving
 
 Many Linux users have this type of error :
-E : Unable to locate package
+E : Unable to locate package <br>
 Packege has no installation candidate
 
 If you also have this error than start the tool by typing "sudo ./start.sh"
