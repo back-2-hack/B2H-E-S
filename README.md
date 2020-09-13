@@ -10,8 +10,7 @@ If you also have this error than start the tool by typing "sudo ./start.sh"<br><
 -- > Note : "sudo" is important otherwise tool will not work properly.<br><br>
 
 Than run the error solver in tool by typing 01.<br>
-
-Now your error is gone.<br><br><br>
+<br><br><br>
 
 
 It have a security mode feature.<br>
